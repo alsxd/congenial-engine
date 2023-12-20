@@ -1,0 +1,2 @@
+::run.bat
+main.exe
